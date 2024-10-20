@@ -37,9 +37,13 @@ Sin embargo, los conjuntos de datos originales se registran de tal manera que ca
 
 # Links útiles sobre devContainer
 -> devContainer mediante vscode: https://code.visualstudio.com/docs/devcontainers/containers
+
 -> cómo crear un devContainer: https://code.visualstudio.com/docs/devcontainers/create-dev-container
+
 -> tutorial sobre devContainer sobre vscode: https://code.visualstudio.com/docs/devcontainers/tutorial
+
 -> devContainer video: https://www.youtube.com/watch?v=b1RavPr_878&ab_channel=VisualStudioCode
+
 -> cómo usarlo: https://learn.microsoft.com/es-es/training/modules/use-docker-container-dev-env-vs-code/
 
 
